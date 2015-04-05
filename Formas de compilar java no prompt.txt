@@ -1,0 +1,9 @@
+Para compilar programa java no prompt, em casos de o javac (jdk) não ter sido instalado no computador.
+"C:\Program Files\Java\jdk1.7.0_40\bin\javac" NomedoPrograma.java - Compila
+"C:\Program Files\Java\jdk1.7.0_40\bin\java" NomedoPrograma.java - executa
+
+Após a compilação um arquivo ponto class é gerado.
+
+Caminho no meu pc:
+"C:\Program Files\Java\jdk1.8.0_31\bin\javac"
+"C:\Program Files\Java\jdk1.8.0_11\bin\javac"
